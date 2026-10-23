@@ -1,0 +1,501 @@
+EmployeeID,Age,Department,JobRole,MonthlyIncome,DistanceFromHome,BusinessTravel,OverTime,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,TotalWorkingYears,TrainingTimesLastYear,PerformanceRating,StockOptionLevel,MaritalStatus,Gender,Attrition
+EMP0001,26,IT,Software Engineer,8259,3,Travel_Rarely,No,3,4,3,6,3,1,8,1,3,3,Married,Male,No
+EMP0002,32,IT,Data Analyst,5069,4,Travel_Rarely,No,3,4,3,2,0,1,12,6,4,1,Single,Female,No
+EMP0003,36,IT,Software Engineer,6876,22,Travel_Rarely,Yes,4,3,3,4,0,3,11,5,3,1,Married,Male,No
+EMP0004,41,Research & Development,Research Scientist,9573,9,Travel_Rarely,No,4,2,1,2,1,1,8,2,3,0,Single,Male,No
+EMP0005,38,IT,Data Analyst,4756,3,Travel_Rarely,No,2,3,3,4,4,3,19,1,3,0,Single,Male,No
+EMP0006,32,Sales,Sales Representative,6908,9,Travel_Rarely,No,4,3,3,4,0,0,11,1,3,0,Married,Female,No
+EMP0007,27,Sales,Sales Executive,10352,1,Travel_Rarely,No,3,4,1,3,2,3,8,3,3,0,Married,Male,No
+EMP0008,33,Finance,Financial Analyst,4916,15,Travel_Rarely,No,1,4,2,5,4,1,15,4,3,0,Divorced,Female,No
+EMP0009,31,Sales,Manager,10312,21,Travel_Frequently,No,2,4,2,11,2,0,13,1,3,3,Married,Female,No
+EMP0010,37,Sales,Manager,7024,5,Travel_Frequently,No,3,3,2,3,0,0,10,3,4,0,Divorced,Male,No
+EMP0011,36,Sales,Sales Representative,4360,4,Travel_Frequently,No,3,4,4,3,0,1,6,2,3,2,Married,Male,Yes
+EMP0012,27,Research & Development,Laboratory Technician,3788,6,Travel_Rarely,Yes,3,2,4,7,1,3,8,3,3,0,Single,Female,No
+EMP0013,43,Human Resources,Recruiter,9688,3,Travel_Rarely,Yes,2,2,3,5,3,0,5,2,3,2,Divorced,Male,No
+EMP0014,31,Finance,Accountant,2815,15,Travel_Rarely,No,3,2,2,7,2,3,13,1,3,2,Divorced,Male,No
+EMP0015,44,Research & Development,Laboratory Technician,10671,7,Travel_Frequently,No,4,2,3,8,8,1,20,2,3,2,Divorced,Male,Yes
+EMP0016,25,Research & Development,Research Scientist,6510,12,Travel_Rarely,No,3,3,4,3,3,2,4,3,3,2,Married,Male,No
+EMP0017,36,Research & Development,Laboratory Technician,10839,15,Travel_Rarely,Yes,4,3,3,4,3,3,18,0,4,0,Married,Male,No
+EMP0018,18,Human Resources,Recruiter,2592,8,Travel_Rarely,No,4,2,3,0,0,0,0,5,3,3,Married,Male,No
+EMP0019,41,Human Resources,HR Specialist,9626,1,Travel_Rarely,Yes,4,2,4,2,0,2,5,2,3,2,Divorced,Male,Yes
+EMP0020,43,IT,Software Engineer,7532,14,Travel_Frequently,No,3,3,4,3,1,2,12,3,3,0,Married,Female,No
+EMP0021,42,IT,Software Engineer,7905,17,Travel_Rarely,No,3,2,4,4,3,2,12,4,3,0,Single,Female,No
+EMP0022,43,Research & Development,Laboratory Technician,13101,5,Travel_Rarely,No,2,1,3,5,3,3,15,4,3,1,Married,Female,No
+EMP0023,55,Human Resources,HR Specialist,11998,6,Travel_Rarely,Yes,4,1,2,10,8,7,23,2,3,1,Single,Female,No
+EMP0024,30,Research & Development,Research Scientist,8475,20,Non-Travel,Yes,3,2,2,7,6,4,12,5,3,1,Married,Female,No
+EMP0025,32,Research & Development,Research Director,5129,7,Travel_Rarely,No,3,3,3,3,2,3,14,4,3,1,Married,Female,No
+EMP0026,39,IT,Data Analyst,10100,12,Travel_Rarely,No,4,3,2,9,9,1,18,3,3,1,Married,Female,Yes
+EMP0027,45,Finance,Accountant,9747,1,Travel_Frequently,No,3,4,4,9,3,5,21,6,4,1,Divorced,Female,No
+EMP0028,30,Research & Development,Research Director,3367,13,Travel_Frequently,No,1,2,3,5,4,5,8,0,4,0,Married,Male,No
+EMP0029,38,Human Resources,HR Manager,5490,13,Travel_Rarely,No,3,2,4,7,5,5,11,5,3,1,Divorced,Female,No
+EMP0030,21,IT,IT Support,7547,3,Travel_Rarely,Yes,1,3,3,3,3,1,3,2,3,2,Married,Female,No
+EMP0031,41,IT,IT Support,8112,5,Travel_Rarely,No,2,3,4,4,4,3,18,1,3,1,Single,Male,No
+EMP0032,31,Human Resources,Recruiter,6237,7,Travel_Rarely,Yes,2,1,3,4,0,4,13,3,3,0,Married,Female,Yes
+EMP0033,40,Sales,Sales Executive,7527,1,Travel_Frequently,No,3,3,3,1,0,1,11,2,3,2,Single,Female,No
+EMP0034,38,Research & Development,Research Scientist,4376,3,Travel_Rarely,No,1,2,1,2,1,1,2,1,3,0,Married,Male,No
+EMP0035,35,IT,Data Analyst,3476,24,Travel_Rarely,No,2,1,1,9,7,8,14,0,3,0,Single,Male,Yes
+EMP0036,38,IT,Software Engineer,8487,7,Non-Travel,Yes,4,3,2,2,1,1,11,0,3,2,Single,Female,No
+EMP0037,43,Human Resources,Recruiter,7568,10,Travel_Rarely,No,3,3,1,8,0,1,18,3,4,0,Single,Female,No
+EMP0038,37,IT,Data Analyst,5792,6,Travel_Rarely,No,1,4,4,8,6,8,14,5,4,0,Single,Male,No
+EMP0039,41,Human Resources,HR Manager,9946,8,Travel_Rarely,Yes,2,3,3,6,5,3,9,6,3,1,Single,Female,Yes
+EMP0040,26,Sales,Sales Representative,3335,19,Non-Travel,No,4,4,4,5,0,2,6,5,3,1,Single,Male,Yes
+EMP0041,32,Research & Development,Laboratory Technician,7013,12,Travel_Frequently,No,2,4,2,8,3,7,14,0,4,0,Married,Male,No
+EMP0042,19,Research & Development,Research Director,8144,7,Travel_Rarely,Yes,2,4,3,1,0,0,1,1,3,1,Married,Male,No
+EMP0043,32,Research & Development,Research Scientist,6855,3,Travel_Frequently,Yes,2,4,3,7,7,6,7,3,3,0,Married,Male,Yes
+EMP0044,32,Sales,Sales Executive,7683,6,Travel_Rarely,No,2,2,3,8,8,1,12,2,3,1,Married,Male,No
+EMP0045,41,Research & Development,Research Scientist,9313,1,Travel_Rarely,Yes,3,3,3,7,6,7,17,1,3,0,Single,Female,Yes
+EMP0046,37,Human Resources,HR Manager,6598,14,Travel_Frequently,No,3,3,1,7,3,2,12,5,3,1,Married,Male,No
+EMP0047,30,Research & Development,Laboratory Technician,5495,3,Travel_Frequently,Yes,3,3,2,10,0,1,12,1,3,0,Married,Female,Yes
+EMP0048,27,Finance,Accountant,5061,6,Travel_Rarely,Yes,4,2,4,5,1,1,9,2,3,3,Divorced,Male,No
+EMP0049,47,Research & Development,Research Scientist,7811,6,Travel_Rarely,No,2,4,4,5,4,1,19,1,4,0,Single,Female,No
+EMP0050,27,Research & Development,Research Scientist,9856,3,Travel_Rarely,No,4,1,3,1,1,0,9,0,3,1,Single,Female,Yes
+EMP0051,34,IT,IT Support,9461,10,Travel_Frequently,No,1,1,2,4,4,0,11,6,4,3,Married,Female,No
+EMP0052,25,Sales,Sales Representative,3404,9,Travel_Frequently,Yes,3,3,2,7,4,1,7,1,3,1,Single,Female,No
+EMP0053,23,Sales,Sales Executive,8506,11,Travel_Rarely,Yes,3,2,3,5,2,3,5,1,3,0,Married,Female,Yes
+EMP0054,42,Research & Development,Research Scientist,8562,3,Travel_Frequently,Yes,3,2,4,4,4,0,9,3,3,2,Single,Male,No
+EMP0055,25,Finance,Accountant,3397,8,Travel_Rarely,No,2,2,4,5,2,4,7,5,3,1,Married,Female,No
+EMP0056,37,Research & Development,Laboratory Technician,6776,13,Travel_Frequently,Yes,3,3,2,4,4,0,14,6,4,0,Divorced,Female,Yes
+EMP0057,35,Research & Development,Research Director,7533,29,Travel_Frequently,No,4,3,3,3,3,0,7,4,3,1,Married,Female,No
+EMP0058,22,Finance,Financial Analyst,2867,2,Travel_Rarely,No,3,3,4,4,2,1,4,0,3,2,Single,Female,No
+EMP0059,23,Research & Development,Laboratory Technician,6872,10,Travel_Rarely,No,3,2,2,5,5,2,5,1,3,2,Married,Female,Yes
+EMP0060,38,Research & Development,Research Scientist,9177,27,Travel_Frequently,No,2,4,1,4,0,3,12,0,3,0,Married,Male,Yes
+EMP0061,21,Sales,Manager,5770,12,Non-Travel,No,3,4,4,3,3,3,3,1,3,1,Married,Male,No
+EMP0062,20,Research & Development,Research Scientist,3506,12,Travel_Rarely,No,3,4,3,2,2,1,2,6,3,0,Single,Male,No
+EMP0063,30,Sales,Sales Representative,6561,21,Travel_Frequently,Yes,2,3,4,9,1,1,12,1,3,1,Single,Female,No
+EMP0064,27,Finance,Finance Manager,6753,10,Travel_Rarely,No,3,3,3,4,3,0,9,3,3,0,Married,Male,No
+EMP0065,31,Human Resources,HR Manager,3540,8,Travel_Frequently,No,3,4,3,9,1,2,13,5,3,3,Single,Female,Yes
+EMP0066,38,Sales,Sales Executive,5582,2,Travel_Rarely,Yes,2,2,3,7,6,1,14,3,3,0,Single,Male,No
+EMP0067,38,Research & Development,Laboratory Technician,8402,7,Non-Travel,No,2,3,2,4,3,1,11,5,3,1,Married,Female,No
+EMP0068,37,Research & Development,Research Director,10760,12,Non-Travel,No,2,3,2,7,4,1,10,5,4,0,Married,Female,No
+EMP0069,29,IT,IT Support,3760,8,Travel_Rarely,No,4,2,2,4,2,3,11,4,4,0,Single,Female,No
+EMP0070,18,Research & Development,Laboratory Technician,1800,2,Travel_Rarely,No,1,3,4,0,0,0,0,3,3,3,Married,Male,Yes
+EMP0071,36,Research & Development,Laboratory Technician,8009,6,Non-Travel,Yes,2,3,2,4,1,1,6,0,3,0,Married,Male,No
+EMP0072,28,Research & Development,Research Scientist,6461,1,Travel_Rarely,Yes,4,2,3,7,7,0,10,1,3,2,Married,Male,No
+EMP0073,40,Research & Development,Research Director,9154,29,Non-Travel,No,3,3,2,7,7,2,17,4,4,0,Married,Female,No
+EMP0074,37,IT,IT Support,6353,7,Travel_Rarely,Yes,3,3,3,10,0,9,10,2,3,2,Married,Male,No
+EMP0075,25,Finance,Financial Analyst,6121,16,Travel_Rarely,No,3,3,4,4,3,4,7,0,3,0,Divorced,Female,No
+EMP0076,30,Finance,Financial Analyst,6714,8,Travel_Frequently,Yes,1,4,1,3,3,1,12,3,3,0,Married,Male,No
+EMP0077,33,Research & Development,Laboratory Technician,7730,4,Travel_Rarely,No,3,4,1,4,3,4,13,1,3,1,Married,Female,No
+EMP0078,35,Human Resources,HR Manager,6406,17,Travel_Frequently,Yes,2,3,4,5,2,5,12,6,3,1,Single,Male,No
+EMP0079,18,Research & Development,Research Director,1800,5,Travel_Rarely,Yes,1,3,4,0,0,0,0,2,3,1,Married,Male,No
+EMP0080,19,IT,Data Analyst,5584,18,Travel_Rarely,Yes,3,4,4,1,1,1,1,1,3,3,Divorced,Female,No
+EMP0081,40,Finance,Financial Analyst,10233,8,Travel_Frequently,No,2,3,2,6,1,1,6,6,3,1,Single,Female,No
+EMP0082,38,Sales,Sales Representative,10193,13,Non-Travel,No,3,3,1,3,0,2,5,6,3,1,Married,Female,Yes
+EMP0083,20,Finance,Accountant,5286,12,Travel_Rarely,No,3,1,3,2,2,2,2,4,3,0,Single,Male,No
+EMP0084,38,Research & Development,Research Scientist,6906,12,Non-Travel,No,4,1,4,5,3,0,14,6,3,1,Single,Male,No
+EMP0085,26,IT,Software Engineer,2809,4,Travel_Frequently,Yes,3,4,3,8,7,4,8,0,3,3,Single,Female,Yes
+EMP0086,28,Sales,Sales Executive,8137,9,Non-Travel,No,4,3,4,4,0,1,6,1,3,0,Single,Female,No
+EMP0087,31,Sales,Sales Executive,7158,5,Travel_Rarely,No,3,3,2,3,1,3,11,1,3,1,Married,Male,No
+EMP0088,24,Research & Development,Laboratory Technician,4425,7,Travel_Rarely,No,3,4,4,5,0,0,6,3,3,3,Married,Female,No
+EMP0089,36,Sales,Manager,1855,5,Travel_Rarely,No,4,3,2,6,6,1,6,2,3,1,Single,Female,No
+EMP0090,37,Human Resources,HR Manager,10309,12,Travel_Rarely,No,2,1,3,7,1,1,16,1,3,3,Married,Male,No
+EMP0091,38,Sales,Sales Representative,3588,2,Travel_Rarely,No,2,1,2,3,1,1,9,6,3,0,Single,Female,Yes
+EMP0092,36,Sales,Manager,3808,5,Travel_Rarely,No,1,4,4,12,10,5,18,2,3,0,Single,Female,Yes
+EMP0093,36,Research & Development,Laboratory Technician,8004,17,Travel_Rarely,No,3,2,3,6,2,4,18,0,4,2,Single,Male,No
+EMP0094,41,Research & Development,Laboratory Technician,8760,3,Travel_Rarely,Yes,3,4,1,6,0,1,8,1,3,1,Married,Female,No
+EMP0095,27,Sales,Sales Representative,3589,8,Travel_Rarely,No,4,2,3,6,6,4,7,4,3,0,Married,Female,No
+EMP0096,26,Sales,Sales Executive,6160,7,Travel_Rarely,No,1,3,2,5,3,4,8,6,3,1,Divorced,Male,No
+EMP0097,31,Research & Development,Laboratory Technician,6464,4,Travel_Frequently,Yes,3,2,4,5,3,3,13,3,3,1,Single,Male,No
+EMP0098,37,IT,Data Analyst,7089,16,Non-Travel,Yes,4,4,2,4,3,3,4,0,3,0,Married,Male,No
+EMP0099,34,Finance,Financial Analyst,6791,7,Travel_Rarely,No,4,1,3,6,1,4,16,5,3,0,Single,Female,No
+EMP0100,18,Research & Development,Laboratory Technician,5874,11,Travel_Rarely,No,2,3,3,0,0,0,0,3,3,1,Single,Male,No
+EMP0101,28,IT,Software Engineer,6952,19,Travel_Frequently,Yes,4,2,3,1,1,1,10,6,3,2,Married,Female,No
+EMP0102,32,IT,IT Support,10093,1,Travel_Rarely,Yes,2,2,4,5,5,3,5,0,3,3,Single,Female,No
+EMP0103,41,IT,Software Engineer,11784,8,Travel_Rarely,No,4,2,2,3,3,1,15,1,3,0,Married,Female,No
+EMP0104,47,Finance,Financial Analyst,9035,1,Travel_Frequently,No,1,4,2,5,5,0,16,5,3,2,Married,Male,Yes
+EMP0105,30,Human Resources,HR Manager,6096,16,Travel_Rarely,No,3,3,1,8,5,2,12,5,3,1,Single,Male,No
+EMP0106,32,Research & Development,Laboratory Technician,8215,22,Travel_Frequently,No,3,3,3,5,3,4,7,2,3,2,Married,Female,No
+EMP0107,22,Sales,Sales Representative,5214,14,Travel_Rarely,No,3,1,4,4,1,0,4,4,4,2,Single,Male,No
+EMP0108,39,Sales,Sales Representative,6573,13,Travel_Rarely,Yes,4,2,2,6,3,2,20,3,4,2,Married,Female,Yes
+EMP0109,18,Human Resources,Recruiter,4575,9,Travel_Rarely,No,3,1,3,0,0,0,0,0,3,0,Single,Male,No
+EMP0110,52,Research & Development,Research Director,12482,6,Travel_Frequently,Yes,3,1,3,4,3,3,5,3,4,0,Married,Male,No
+EMP0111,46,IT,Software Engineer,8562,12,Travel_Rarely,No,1,2,1,6,3,4,20,5,3,0,Divorced,Male,Yes
+EMP0112,39,Sales,Sales Representative,4425,11,Non-Travel,Yes,3,2,3,6,3,0,13,2,4,2,Divorced,Female,No
+EMP0113,45,IT,Software Engineer,9038,19,Travel_Rarely,Yes,1,3,4,6,3,2,9,4,3,1,Married,Male,No
+EMP0114,35,Research & Development,Laboratory Technician,9993,14,Travel_Rarely,Yes,4,3,3,12,11,4,17,2,3,0,Married,Male,No
+EMP0115,34,Human Resources,HR Manager,7126,8,Travel_Rarely,No,3,2,3,7,3,3,16,1,3,0,Married,Female,No
+EMP0116,30,IT,Software Engineer,6857,5,Travel_Frequently,No,4,2,2,7,4,3,12,3,3,0,Married,Male,No
+EMP0117,23,Sales,Sales Executive,6307,12,Travel_Rarely,No,3,3,2,4,3,1,5,3,3,0,Married,Female,No
+EMP0118,36,Sales,Sales Representative,6775,9,Travel_Frequently,No,4,1,4,2,2,2,16,4,3,0,Divorced,Female,No
+EMP0119,33,Research & Development,Research Director,7292,9,Travel_Rarely,No,2,3,3,5,0,1,8,5,3,1,Divorced,Male,Yes
+EMP0120,49,Research & Development,Research Scientist,8043,16,Travel_Rarely,No,4,4,3,6,1,5,8,6,3,2,Married,Female,No
+EMP0121,31,Sales,Sales Executive,5487,14,Travel_Frequently,No,4,4,3,7,1,1,13,5,3,1,Single,Male,No
+EMP0122,39,Research & Development,Laboratory Technician,7995,7,Travel_Rarely,Yes,1,4,3,5,1,2,15,6,3,1,Married,Female,No
+EMP0123,39,Research & Development,Laboratory Technician,11917,5,Travel_Rarely,No,3,4,1,2,0,0,6,1,3,0,Single,Female,Yes
+EMP0124,41,Sales,Sales Representative,12532,3,Travel_Rarely,No,1,2,2,3,3,1,6,6,3,0,Divorced,Male,No
+EMP0125,44,Sales,Manager,8678,7,Travel_Rarely,Yes,3,3,3,6,0,0,16,4,3,1,Married,Female,No
+EMP0126,26,Research & Development,Laboratory Technician,2871,10,Travel_Frequently,Yes,2,1,4,6,1,3,8,0,4,0,Married,Male,Yes
+EMP0127,31,Sales,Manager,4017,14,Travel_Rarely,Yes,4,4,4,3,2,0,12,6,3,1,Single,Female,No
+EMP0128,35,Finance,Accountant,5811,4,Travel_Rarely,No,1,2,1,7,6,7,15,6,3,1,Single,Male,No
+EMP0129,44,Finance,Accountant,8374,11,Non-Travel,No,1,1,4,5,4,4,20,1,3,0,Married,Female,No
+EMP0130,18,IT,Software Engineer,4402,29,Travel_Rarely,No,3,4,1,0,0,0,0,2,3,0,Divorced,Female,No
+EMP0131,37,IT,Data Analyst,10889,20,Travel_Rarely,No,4,3,3,7,2,1,10,1,3,0,Married,Male,No
+EMP0132,53,Sales,Sales Executive,6297,29,Travel_Rarely,No,4,4,3,3,0,1,15,5,3,0,Married,Male,No
+EMP0133,38,Research & Development,Research Scientist,4951,12,Non-Travel,No,2,2,4,6,4,4,16,3,4,0,Single,Female,No
+EMP0134,34,IT,Software Engineer,9410,5,Travel_Rarely,Yes,2,3,3,5,0,0,11,1,3,0,Married,Male,No
+EMP0135,54,IT,Software Engineer,11277,3,Travel_Frequently,Yes,4,1,4,3,3,0,12,2,3,0,Married,Female,No
+EMP0136,30,Sales,Sales Representative,5055,5,Travel_Frequently,Yes,1,3,4,8,6,6,12,4,3,2,Single,Female,No
+EMP0137,28,Research & Development,Laboratory Technician,4673,10,Travel_Rarely,No,4,2,2,1,1,0,9,4,3,2,Married,Female,No
+EMP0138,29,Finance,Finance Manager,8664,29,Travel_Frequently,Yes,1,1,3,3,0,3,7,0,3,2,Married,Female,No
+EMP0139,36,IT,IT Support,8782,10,Travel_Rarely,No,1,2,2,6,2,4,18,5,3,1,Married,Female,No
+EMP0140,35,IT,Software Engineer,8918,6,Travel_Rarely,No,1,2,3,5,0,0,8,3,3,3,Single,Female,No
+EMP0141,24,Finance,Financial Analyst,4213,3,Travel_Rarely,No,1,2,1,6,2,3,6,4,3,1,Married,Male,No
+EMP0142,35,Finance,Financial Analyst,4544,22,Travel_Rarely,No,2,2,4,2,0,0,16,5,3,1,Single,Male,Yes
+EMP0143,25,Sales,Sales Executive,2630,8,Travel_Frequently,Yes,3,3,4,2,2,0,7,3,3,0,Married,Female,No
+EMP0144,32,Research & Development,Research Director,9239,1,Travel_Frequently,Yes,3,3,4,5,0,0,10,1,3,1,Married,Female,No
+EMP0145,30,Human Resources,HR Specialist,7718,7,Travel_Rarely,No,3,2,3,5,0,3,5,4,3,3,Single,Male,No
+EMP0146,39,IT,IT Support,6646,6,Non-Travel,Yes,3,4,1,6,0,5,7,3,3,2,Married,Male,Yes
+EMP0147,32,IT,Software Engineer,3278,14,Travel_Frequently,No,1,2,2,4,4,1,14,0,3,1,Single,Female,Yes
+EMP0148,38,IT,Software Engineer,2969,2,Travel_Rarely,No,2,2,1,5,0,0,10,0,3,0,Married,Male,Yes
+EMP0149,30,IT,Software Engineer,5888,4,Travel_Rarely,Yes,4,4,4,0,0,0,7,2,3,2,Married,Female,No
+EMP0150,26,Research & Development,Research Scientist,7341,11,Travel_Frequently,No,3,4,3,8,6,2,8,6,4,1,Single,Female,No
+EMP0151,26,IT,Data Analyst,6605,14,Travel_Rarely,No,3,3,3,5,5,1,8,3,3,1,Single,Male,No
+EMP0152,35,Research & Development,Research Scientist,6215,28,Travel_Rarely,Yes,2,4,3,5,0,3,8,4,3,0,Married,Male,No
+EMP0153,35,Research & Development,Research Director,6732,12,Travel_Rarely,No,4,3,3,5,2,2,13,3,3,2,Single,Male,No
+EMP0154,45,Finance,Financial Analyst,9108,12,Travel_Frequently,No,2,3,4,6,5,4,17,2,3,0,Married,Male,Yes
+EMP0155,38,IT,Software Engineer,7270,13,Travel_Rarely,No,4,4,4,4,2,3,4,3,3,0,Single,Female,No
+EMP0156,24,Human Resources,Recruiter,3628,11,Travel_Rarely,No,3,2,3,6,6,1,6,1,4,1,Married,Female,No
+EMP0157,25,Human Resources,HR Manager,2836,13,Travel_Rarely,No,2,1,4,5,5,5,7,3,3,0,Single,Female,No
+EMP0158,34,Research & Development,Research Director,7084,9,Travel_Rarely,Yes,3,2,2,4,3,4,16,5,3,1,Single,Male,No
+EMP0159,54,Sales,Sales Representative,10974,14,Travel_Rarely,Yes,2,4,3,3,0,3,9,1,3,0,Married,Female,No
+EMP0160,20,Finance,Accountant,7014,3,Travel_Frequently,No,3,3,3,2,2,1,2,2,4,1,Married,Male,No
+EMP0161,24,Research & Development,Research Scientist,7297,6,Travel_Rarely,No,2,3,4,6,5,0,6,1,4,0,Single,Female,No
+EMP0162,33,Sales,Sales Representative,11381,8,Travel_Rarely,No,2,4,3,5,4,1,15,2,4,3,Married,Male,Yes
+EMP0163,38,IT,IT Support,5603,4,Non-Travel,No,4,2,3,5,2,4,10,0,3,1,Married,Female,No
+EMP0164,38,Human Resources,HR Manager,8941,15,Travel_Rarely,Yes,2,2,1,2,2,2,4,6,3,0,Married,Male,No
+EMP0165,29,Research & Development,Laboratory Technician,4653,6,Travel_Rarely,No,3,2,3,5,3,1,9,0,3,0,Married,Female,No
+EMP0166,41,Research & Development,Research Scientist,11053,14,Travel_Rarely,No,2,3,3,8,3,0,15,5,3,0,Divorced,Female,No
+EMP0167,38,Research & Development,Research Director,8033,22,Non-Travel,Yes,1,4,3,4,2,2,15,6,4,0,Divorced,Female,Yes
+EMP0168,41,IT,IT Support,8262,5,Travel_Rarely,No,3,2,3,4,4,0,9,3,3,2,Married,Male,No
+EMP0169,32,IT,Software Engineer,11575,10,Non-Travel,No,3,2,4,6,3,0,8,0,3,1,Married,Male,No
+EMP0170,49,Sales,Manager,9153,8,Non-Travel,Yes,2,2,3,4,0,0,10,2,4,1,Single,Male,Yes
+EMP0171,26,Human Resources,HR Manager,6663,10,Travel_Rarely,No,2,3,1,4,4,3,7,4,3,0,Single,Female,Yes
+EMP0172,31,Research & Development,Laboratory Technician,3670,13,Non-Travel,No,1,2,3,3,1,0,6,1,3,1,Married,Female,No
+EMP0173,26,Sales,Sales Representative,6649,13,Non-Travel,Yes,2,3,2,5,3,4,8,6,3,0,Single,Female,Yes
+EMP0174,41,Research & Development,Research Director,11357,4,Travel_Rarely,No,2,4,3,10,1,5,14,4,3,0,Married,Female,No
+EMP0175,42,Finance,Finance Manager,12401,6,Non-Travel,No,1,4,2,10,4,10,12,0,3,1,Married,Female,Yes
+EMP0176,30,Sales,Sales Executive,5959,15,Travel_Frequently,No,1,2,2,6,1,1,12,2,4,0,Married,Male,Yes
+EMP0177,44,Research & Development,Laboratory Technician,6035,4,Travel_Frequently,No,3,4,2,7,3,4,21,2,4,0,Married,Female,No
+EMP0178,29,Research & Development,Research Scientist,5956,15,Travel_Rarely,No,4,3,4,6,2,0,6,0,3,0,Single,Male,Yes
+EMP0179,41,Research & Development,Research Scientist,8879,7,Travel_Rarely,No,1,3,2,2,1,2,2,6,3,1,Divorced,Female,No
+EMP0180,18,IT,IT Support,9348,12,Travel_Rarely,No,3,4,4,0,0,0,0,6,4,0,Married,Male,Yes
+EMP0181,36,Sales,Sales Representative,7645,12,Travel_Rarely,No,1,3,4,2,1,0,7,0,3,1,Single,Female,Yes
+EMP0182,40,Human Resources,HR Manager,10537,3,Travel_Rarely,No,2,2,4,3,1,1,14,2,3,0,Married,Male,No
+EMP0183,33,IT,IT Support,5808,11,Travel_Rarely,Yes,4,3,2,8,0,4,15,6,4,2,Single,Female,No
+EMP0184,26,IT,IT Support,5954,11,Travel_Rarely,No,4,2,3,8,1,8,8,6,4,1,Single,Female,No
+EMP0185,26,Sales,Sales Executive,7732,10,Travel_Rarely,No,2,1,2,8,5,2,8,5,3,1,Divorced,Male,No
+EMP0186,48,IT,Data Analyst,8269,3,Non-Travel,Yes,3,1,4,4,4,0,17,4,3,0,Married,Female,Yes
+EMP0187,35,IT,IT Support,6446,16,Non-Travel,No,2,1,3,7,7,5,17,4,3,1,Divorced,Female,No
+EMP0188,27,IT,IT Support,6828,14,Travel_Frequently,Yes,3,2,3,4,4,3,9,2,3,2,Divorced,Female,Yes
+EMP0189,31,Research & Development,Laboratory Technician,5229,17,Travel_Frequently,Yes,4,2,4,7,2,4,13,3,4,0,Married,Female,Yes
+EMP0190,18,Sales,Sales Executive,2255,1,Travel_Rarely,Yes,3,2,2,0,0,0,0,0,3,0,Divorced,Female,No
+EMP0191,20,IT,Data Analyst,1800,5,Travel_Rarely,Yes,2,4,4,2,1,0,2,3,3,1,Married,Male,No
+EMP0192,35,Research & Development,Research Director,6586,11,Travel_Rarely,No,4,2,2,4,1,0,14,0,3,1,Married,Female,No
+EMP0193,42,Sales,Sales Executive,5076,3,Travel_Rarely,No,3,3,4,8,3,1,21,0,3,1,Married,Male,No
+EMP0194,34,Research & Development,Laboratory Technician,6922,3,Travel_Rarely,No,4,2,2,5,4,3,11,6,4,1,Married,Male,No
+EMP0195,29,IT,Data Analyst,10517,2,Travel_Rarely,Yes,3,4,2,6,6,3,10,4,3,1,Single,Male,Yes
+EMP0196,38,Sales,Sales Representative,4982,4,Travel_Rarely,No,2,4,4,0,0,0,15,6,3,1,Married,Male,No
+EMP0197,30,Sales,Manager,7627,11,Travel_Frequently,No,1,3,1,6,6,0,12,2,3,2,Single,Male,No
+EMP0198,26,Research & Development,Research Director,1800,17,Travel_Rarely,No,3,3,4,4,1,3,5,0,4,0,Married,Male,No
+EMP0199,39,Research & Development,Research Director,4294,10,Travel_Rarely,Yes,4,3,4,4,1,1,8,1,3,0,Married,Female,No
+EMP0200,46,Sales,Manager,6945,1,Non-Travel,Yes,3,1,2,3,1,2,15,3,3,0,Married,Female,Yes
+EMP0201,28,Finance,Finance Manager,7557,12,Travel_Rarely,No,3,4,3,5,1,0,6,2,3,2,Divorced,Female,Yes
+EMP0202,34,Sales,Manager,7547,12,Travel_Rarely,No,4,3,3,8,6,6,13,6,3,0,Single,Female,No
+EMP0203,32,Research & Development,Research Director,8086,19,Travel_Rarely,No,3,3,2,6,4,4,14,1,3,0,Single,Female,No
+EMP0204,48,Finance,Financial Analyst,10594,3,Travel_Rarely,Yes,3,2,2,4,0,1,17,6,3,1,Married,Female,Yes
+EMP0205,26,Research & Development,Laboratory Technician,5260,5,Travel_Rarely,No,3,3,2,6,4,4,6,0,3,0,Married,Female,No
+EMP0206,32,Sales,Manager,9766,3,Travel_Rarely,No,3,1,2,9,1,5,14,3,3,0,Married,Female,No
+EMP0207,22,IT,Data Analyst,3982,12,Travel_Frequently,Yes,2,3,3,4,3,1,4,5,3,2,Divorced,Female,Yes
+EMP0208,27,Human Resources,HR Specialist,6503,10,Travel_Rarely,Yes,2,4,3,5,1,2,7,5,3,1,Married,Male,No
+EMP0209,28,Sales,Sales Representative,6695,1,Travel_Rarely,Yes,3,4,2,3,1,3,10,2,3,1,Married,Female,Yes
+EMP0210,41,Research & Development,Research Director,10811,1,Travel_Rarely,No,3,3,4,4,1,2,11,3,3,1,Single,Female,No
+EMP0211,35,Research & Development,Research Director,9012,10,Travel_Rarely,Yes,3,2,2,7,2,0,17,4,3,0,Single,Male,No
+EMP0212,34,Research & Development,Research Director,7132,7,Travel_Rarely,No,3,4,2,5,4,2,16,2,3,3,Married,Female,No
+EMP0213,29,IT,Software Engineer,8960,1,Travel_Rarely,Yes,4,2,3,7,3,2,7,0,3,0,Married,Female,Yes
+EMP0214,32,Human Resources,HR Specialist,8169,8,Travel_Rarely,No,4,4,2,5,1,1,14,1,3,2,Married,Female,No
+EMP0215,25,Research & Development,Laboratory Technician,4217,9,Travel_Rarely,No,2,3,4,3,3,3,7,1,3,0,Married,Female,No
+EMP0216,28,Sales,Sales Executive,4434,18,Travel_Rarely,No,3,1,1,10,6,8,10,3,3,0,Single,Male,No
+EMP0217,36,Research & Development,Research Director,6731,13,Travel_Rarely,No,3,2,4,6,4,5,8,6,3,2,Married,Female,No
+EMP0218,46,Human Resources,Recruiter,9556,4,Travel_Rarely,No,4,2,3,4,0,1,4,6,3,2,Married,Male,No
+EMP0219,32,Finance,Accountant,3694,5,Travel_Rarely,No,1,3,4,10,5,4,14,5,4,0,Divorced,Male,No
+EMP0220,32,Human Resources,HR Manager,3360,10,Travel_Rarely,No,3,3,1,3,3,2,6,2,4,1,Single,Female,No
+EMP0221,27,Sales,Sales Representative,8714,13,Travel_Rarely,No,1,3,2,9,5,9,9,3,3,0,Married,Male,No
+EMP0222,18,IT,Data Analyst,4300,8,Travel_Rarely,Yes,1,2,1,0,0,0,0,2,4,0,Married,Female,No
+EMP0223,18,Finance,Accountant,2831,6,Travel_Rarely,No,3,2,2,0,0,0,0,1,3,1,Single,Female,Yes
+EMP0224,37,Finance,Finance Manager,5511,7,Travel_Rarely,No,2,2,3,3,1,1,6,0,3,2,Married,Female,No
+EMP0225,33,Research & Development,Research Scientist,7416,5,Travel_Rarely,No,2,2,2,3,2,2,15,0,3,0,Married,Female,No
+EMP0226,35,IT,Data Analyst,3700,8,Non-Travel,No,2,1,3,6,6,5,17,2,3,1,Married,Female,No
+EMP0227,29,Sales,Sales Representative,3901,7,Travel_Rarely,No,3,2,3,5,4,1,11,4,3,0,Married,Female,No
+EMP0228,29,Human Resources,Recruiter,6823,9,Travel_Rarely,No,4,2,2,1,0,0,7,3,4,0,Married,Female,No
+EMP0229,35,Sales,Sales Executive,3767,6,Travel_Frequently,Yes,3,4,3,2,0,0,14,2,3,2,Single,Male,No
+EMP0230,28,Research & Development,Research Scientist,5534,1,Travel_Rarely,No,2,4,4,5,5,3,10,2,3,0,Single,Male,No
+EMP0231,33,Finance,Financial Analyst,10177,2,Travel_Rarely,No,3,3,2,7,1,7,10,1,3,0,Single,Female,No
+EMP0232,39,Research & Development,Research Scientist,4059,28,Travel_Rarely,No,3,1,3,6,3,1,8,5,3,0,Married,Female,Yes
+EMP0233,28,Research & Development,Research Director,6047,4,Non-Travel,No,3,3,4,4,4,0,10,0,3,1,Married,Female,No
+EMP0234,40,IT,IT Support,8857,4,Travel_Frequently,No,4,4,4,4,2,0,13,3,3,2,Married,Male,No
+EMP0235,38,Sales,Manager,8353,7,Travel_Rarely,Yes,3,1,4,3,0,2,18,5,3,0,Single,Female,No
+EMP0236,42,Research & Development,Laboratory Technician,8365,6,Travel_Rarely,No,2,4,4,2,2,2,5,5,4,0,Divorced,Female,No
+EMP0237,37,Research & Development,Laboratory Technician,7208,4,Travel_Frequently,No,4,3,2,3,0,2,8,2,4,0,Single,Female,No
+EMP0238,47,Sales,Sales Representative,12174,8,Travel_Rarely,Yes,4,4,3,6,5,1,15,3,3,3,Married,Female,No
+EMP0239,45,Human Resources,HR Specialist,10774,16,Travel_Rarely,No,2,3,4,7,1,5,8,1,4,0,Married,Female,No
+EMP0240,30,Sales,Manager,9055,19,Travel_Rarely,No,4,2,2,2,2,1,7,6,3,3,Married,Male,No
+EMP0241,20,Research & Development,Laboratory Technician,6474,6,Travel_Rarely,No,3,4,3,2,0,1,2,3,3,1,Married,Male,No
+EMP0242,42,IT,Data Analyst,3479,10,Travel_Rarely,Yes,3,2,3,7,5,5,11,1,3,0,Single,Female,No
+EMP0243,29,Sales,Sales Executive,2929,8,Travel_Rarely,No,4,4,3,3,0,2,11,1,3,0,Divorced,Female,No
+EMP0244,33,IT,IT Support,6944,3,Non-Travel,No,2,2,3,2,2,2,7,4,3,2,Single,Male,No
+EMP0245,34,Research & Development,Research Scientist,7581,2,Travel_Rarely,Yes,1,2,4,5,3,0,9,1,4,2,Single,Female,Yes
+EMP0246,45,IT,Data Analyst,7339,22,Travel_Rarely,No,4,3,4,6,5,6,7,5,3,0,Married,Male,No
+EMP0247,35,IT,IT Support,7206,9,Travel_Frequently,No,3,3,4,8,7,4,9,0,4,3,Divorced,Female,No
+EMP0248,34,Sales,Manager,8105,13,Travel_Frequently,No,2,1,1,4,2,4,13,4,3,2,Married,Female,No
+EMP0249,38,Research & Development,Laboratory Technician,10425,1,Travel_Rarely,No,3,1,4,2,0,2,15,5,3,2,Married,Male,No
+EMP0250,19,Sales,Manager,5369,5,Travel_Frequently,No,3,3,4,1,0,0,1,4,3,0,Married,Male,No
+EMP0251,27,Research & Development,Laboratory Technician,9121,6,Travel_Rarely,No,2,3,4,4,3,4,9,6,3,0,Married,Male,No
+EMP0252,36,Research & Development,Research Director,7562,9,Travel_Rarely,No,4,4,1,5,3,5,9,3,3,1,Married,Male,No
+EMP0253,44,Human Resources,Recruiter,11515,13,Travel_Rarely,Yes,2,2,3,5,1,2,17,4,3,0,Single,Male,No
+EMP0254,37,Sales,Manager,6449,5,Travel_Frequently,No,1,4,3,5,0,1,19,3,3,0,Single,Male,Yes
+EMP0255,55,Finance,Finance Manager,8993,8,Travel_Rarely,No,1,4,2,7,6,0,22,4,3,0,Single,Female,No
+EMP0256,28,Research & Development,Laboratory Technician,7166,5,Travel_Rarely,Yes,1,3,3,7,3,1,10,5,3,1,Single,Male,No
+EMP0257,33,Sales,Manager,6655,8,Non-Travel,No,4,3,1,5,1,5,7,0,3,1,Married,Male,No
+EMP0258,42,Research & Development,Research Scientist,6808,18,Non-Travel,No,3,2,3,2,1,0,15,2,3,0,Married,Male,No
+EMP0259,30,Sales,Sales Representative,5076,6,Travel_Frequently,No,2,1,2,7,7,5,12,0,4,0,Single,Male,No
+EMP0260,33,Finance,Finance Manager,10722,6,Travel_Rarely,No,4,4,2,3,0,3,11,3,3,0,Single,Female,No
+EMP0261,28,Research & Development,Research Scientist,6268,6,Travel_Rarely,Yes,2,3,4,3,0,3,10,2,3,0,Single,Female,No
+EMP0262,39,Finance,Financial Analyst,5565,12,Travel_Frequently,No,3,3,3,1,0,1,2,4,3,0,Married,Male,Yes
+EMP0263,27,IT,IT Support,7677,7,Travel_Frequently,No,3,2,3,5,2,5,9,4,3,0,Divorced,Female,No
+EMP0264,36,Research & Development,Research Director,5929,13,Travel_Rarely,Yes,2,3,3,3,0,0,7,2,3,0,Married,Male,Yes
+EMP0265,42,Research & Development,Research Director,9155,3,Travel_Frequently,Yes,1,3,3,3,3,3,7,5,3,1,Single,Female,Yes
+EMP0266,28,Sales,Sales Representative,4723,23,Travel_Rarely,No,4,3,3,8,6,8,10,0,3,2,Married,Female,No
+EMP0267,41,Sales,Sales Executive,7597,13,Travel_Rarely,No,1,3,4,6,3,5,16,2,3,0,Married,Female,No
+EMP0268,38,Sales,Manager,8578,3,Travel_Rarely,No,3,2,3,4,2,2,10,3,3,2,Single,Male,Yes
+EMP0269,24,Research & Development,Research Scientist,3565,4,Travel_Rarely,No,2,1,4,6,5,2,6,2,4,1,Single,Male,No
+EMP0270,29,Research & Development,Research Director,3838,16,Travel_Rarely,No,3,4,1,2,1,2,2,0,3,0,Married,Female,Yes
+EMP0271,38,IT,IT Support,7639,28,Travel_Frequently,No,3,4,3,4,4,0,16,2,3,0,Divorced,Male,No
+EMP0272,29,Sales,Manager,6479,13,Travel_Rarely,No,4,2,3,6,3,1,11,5,3,1,Single,Male,No
+EMP0273,48,IT,Data Analyst,6546,6,Non-Travel,No,2,2,3,7,3,7,22,2,3,1,Married,Male,No
+EMP0274,33,Finance,Financial Analyst,3452,4,Travel_Rarely,No,3,3,2,6,1,3,15,1,4,1,Single,Female,No
+EMP0275,32,Sales,Manager,5401,7,Travel_Rarely,No,2,2,4,7,2,0,14,3,3,1,Married,Male,No
+EMP0276,44,Sales,Sales Representative,7143,6,Travel_Rarely,No,2,3,4,0,0,0,0,3,3,0,Married,Male,No
+EMP0277,35,Sales,Sales Executive,7225,12,Travel_Rarely,Yes,1,3,3,5,0,3,11,0,3,2,Married,Male,No
+EMP0278,39,Research & Development,Research Director,8347,2,Travel_Rarely,No,2,2,3,6,3,0,17,6,3,1,Single,Female,No
+EMP0279,42,Research & Development,Research Director,12946,16,Travel_Frequently,Yes,4,3,2,8,7,6,22,6,3,0,Divorced,Female,No
+EMP0280,31,Research & Development,Laboratory Technician,7514,6,Travel_Rarely,No,3,3,3,3,3,3,13,1,3,1,Married,Female,No
+EMP0281,40,Sales,Sales Executive,6450,6,Travel_Rarely,No,4,3,1,5,1,1,6,2,4,1,Single,Female,No
+EMP0282,39,Research & Development,Research Director,6151,29,Travel_Rarely,No,3,2,4,5,1,0,18,6,3,0,Married,Female,No
+EMP0283,34,Sales,Sales Executive,7272,5,Travel_Rarely,No,3,3,3,3,2,1,12,2,3,0,Married,Female,No
+EMP0284,32,Finance,Finance Manager,10129,1,Travel_Rarely,No,4,3,2,6,6,6,10,2,3,0,Single,Female,No
+EMP0285,36,Research & Development,Research Scientist,11367,21,Non-Travel,Yes,3,2,3,4,2,0,8,4,3,0,Married,Male,Yes
+EMP0286,37,Sales,Sales Executive,13465,9,Travel_Frequently,No,3,4,2,5,2,3,8,5,3,0,Single,Female,No
+EMP0287,33,Sales,Manager,2700,29,Travel_Rarely,No,2,4,2,9,8,8,15,0,3,1,Married,Female,No
+EMP0288,35,IT,IT Support,4876,17,Travel_Rarely,No,4,3,4,3,3,2,10,5,4,2,Married,Female,No
+EMP0289,45,Research & Development,Laboratory Technician,5771,5,Travel_Rarely,No,3,2,3,6,5,0,16,2,3,2,Married,Male,No
+EMP0290,32,Research & Development,Research Scientist,7875,18,Travel_Rarely,Yes,2,4,3,4,3,0,4,6,3,0,Married,Male,No
+EMP0291,31,Research & Development,Research Scientist,5697,6,Travel_Rarely,Yes,3,3,3,1,1,1,2,2,4,0,Single,Male,Yes
+EMP0292,44,Sales,Sales Executive,8892,3,Travel_Rarely,No,3,4,3,8,3,0,14,4,3,1,Married,Male,No
+EMP0293,30,Research & Development,Research Scientist,3560,9,Travel_Rarely,No,2,3,3,9,7,6,12,5,3,0,Married,Male,No
+EMP0294,35,Sales,Manager,8330,17,Travel_Rarely,No,3,4,3,3,0,0,14,5,3,0,Divorced,Female,No
+EMP0295,31,Research & Development,Research Director,7885,2,Non-Travel,No,1,2,3,7,2,2,9,0,3,0,Single,Female,No
+EMP0296,33,Sales,Sales Executive,5312,3,Travel_Rarely,No,1,3,3,4,1,4,4,6,3,0,Single,Female,No
+EMP0297,36,Human Resources,HR Manager,10022,15,Travel_Rarely,Yes,2,2,2,8,8,6,18,5,3,2,Married,Female,No
+EMP0298,30,IT,Data Analyst,6183,11,Travel_Rarely,No,4,4,3,9,2,0,12,4,3,1,Married,Female,No
+EMP0299,46,Human Resources,Recruiter,8799,7,Travel_Frequently,No,3,3,3,4,3,3,19,2,3,1,Married,Female,No
+EMP0300,26,Research & Development,Research Director,10005,22,Travel_Rarely,Yes,3,3,2,5,2,1,8,5,4,0,Married,Female,No
+EMP0301,28,IT,Software Engineer,4784,17,Travel_Rarely,Yes,1,2,2,6,5,6,10,3,3,2,Married,Male,No
+EMP0302,36,Research & Development,Laboratory Technician,11483,6,Travel_Rarely,No,1,4,1,3,1,0,11,3,4,0,Married,Male,No
+EMP0303,32,Sales,Sales Executive,6836,6,Travel_Rarely,Yes,2,2,2,4,4,0,7,2,3,3,Divorced,Female,No
+EMP0304,44,Research & Development,Research Director,10769,7,Travel_Rarely,Yes,3,4,2,5,0,2,11,0,3,2,Married,Male,Yes
+EMP0305,34,IT,IT Support,5380,8,Travel_Frequently,No,1,4,4,5,3,1,9,0,3,1,Married,Female,Yes
+EMP0306,33,IT,IT Support,4072,2,Travel_Rarely,Yes,2,2,3,4,3,2,6,6,3,1,Married,Male,Yes
+EMP0307,33,IT,Data Analyst,8726,13,Travel_Rarely,No,4,2,4,5,1,5,7,6,3,1,Single,Female,No
+EMP0308,48,Sales,Sales Executive,12875,1,Travel_Rarely,No,3,3,4,4,3,4,16,0,4,3,Single,Male,No
+EMP0309,25,Sales,Sales Representative,4917,2,Travel_Rarely,Yes,3,3,3,7,0,4,7,3,3,1,Married,Female,Yes
+EMP0310,32,Sales,Sales Executive,5084,5,Travel_Rarely,Yes,3,3,4,4,3,1,9,6,4,1,Married,Female,No
+EMP0311,39,Research & Development,Research Director,3385,12,Travel_Rarely,No,3,2,2,7,1,5,7,1,3,3,Single,Female,No
+EMP0312,42,Sales,Manager,8471,6,Travel_Rarely,No,4,3,4,8,5,2,21,2,3,0,Married,Male,No
+EMP0313,44,Finance,Accountant,6718,10,Travel_Rarely,No,1,2,3,4,4,4,15,1,3,1,Married,Male,No
+EMP0314,39,IT,Software Engineer,5959,1,Travel_Rarely,No,4,4,2,2,0,1,12,4,3,0,Divorced,Male,No
+EMP0315,21,Human Resources,HR Specialist,3948,5,Travel_Rarely,No,2,3,3,3,1,0,3,0,3,0,Single,Female,No
+EMP0316,31,Research & Development,Research Scientist,7233,9,Travel_Rarely,No,2,3,3,6,0,3,10,4,3,0,Married,Male,No
+EMP0317,49,Research & Development,Research Scientist,9683,10,Travel_Frequently,Yes,4,3,3,2,0,2,14,4,4,0,Single,Male,Yes
+EMP0318,30,Sales,Sales Representative,6661,14,Non-Travel,No,3,3,3,8,1,6,10,3,3,0,Single,Female,Yes
+EMP0319,23,Sales,Manager,6426,17,Travel_Rarely,No,3,1,4,5,4,0,5,4,4,0,Married,Male,No
+EMP0320,32,Research & Development,Research Director,7799,5,Travel_Rarely,No,3,2,4,2,2,1,4,6,3,0,Married,Female,No
+EMP0321,26,Sales,Sales Executive,7135,13,Travel_Rarely,No,3,3,3,4,2,1,8,3,3,0,Married,Male,No
+EMP0322,44,Research & Development,Research Director,7686,7,Travel_Frequently,Yes,2,4,3,3,1,0,10,3,3,2,Married,Female,No
+EMP0323,30,Finance,Finance Manager,6817,23,Travel_Rarely,Yes,1,4,4,4,3,2,12,3,3,1,Single,Female,No
+EMP0324,32,Research & Development,Research Director,6056,24,Travel_Rarely,No,3,3,4,7,0,7,9,2,3,2,Married,Female,Yes
+EMP0325,39,Research & Development,Laboratory Technician,3447,9,Travel_Rarely,Yes,2,4,3,2,2,0,17,3,3,1,Single,Male,Yes
+EMP0326,34,Sales,Manager,3101,4,Travel_Rarely,No,4,4,2,7,7,1,16,2,3,2,Single,Male,No
+EMP0327,34,Research & Development,Research Scientist,9216,22,Travel_Rarely,No,2,4,2,3,0,1,10,0,4,2,Married,Female,No
+EMP0328,36,Human Resources,Recruiter,8663,4,Travel_Rarely,No,4,4,4,11,9,2,18,6,3,1,Single,Male,No
+EMP0329,29,Sales,Manager,9064,3,Travel_Rarely,No,3,3,4,3,1,1,8,0,4,0,Married,Female,Yes
+EMP0330,34,IT,IT Support,9067,11,Travel_Frequently,No,2,3,1,3,3,3,9,1,3,2,Single,Male,No
+EMP0331,30,Research & Development,Laboratory Technician,3724,6,Non-Travel,No,2,4,4,7,3,5,12,5,3,0,Married,Female,No
+EMP0332,30,Sales,Sales Executive,6848,7,Travel_Rarely,No,1,3,2,4,2,3,11,4,3,0,Married,Female,No
+EMP0333,46,Research & Development,Research Director,12795,10,Travel_Rarely,No,4,3,2,2,2,1,6,6,3,1,Married,Male,No
+EMP0334,47,Research & Development,Research Director,9075,11,Travel_Rarely,No,3,4,4,5,3,2,18,5,4,2,Married,Female,No
+EMP0335,45,Finance,Financial Analyst,8975,17,Travel_Rarely,No,4,2,2,2,1,1,2,1,3,3,Married,Female,No
+EMP0336,25,Research & Development,Research Scientist,6159,5,Travel_Rarely,No,4,3,4,6,3,6,7,1,3,2,Married,Male,No
+EMP0337,44,Research & Development,Laboratory Technician,7189,7,Travel_Rarely,No,1,2,3,6,2,2,21,4,3,1,Single,Female,No
+EMP0338,49,Research & Development,Research Scientist,5075,8,Travel_Rarely,No,3,1,3,4,3,3,5,3,3,0,Married,Male,No
+EMP0339,28,Research & Development,Research Scientist,4807,2,Travel_Rarely,Yes,4,4,3,7,5,7,9,5,3,0,Single,Male,No
+EMP0340,20,Research & Development,Laboratory Technician,3361,5,Travel_Rarely,No,3,1,3,2,1,1,2,4,3,1,Married,Female,No
+EMP0341,30,Sales,Manager,6875,23,Travel_Rarely,No,3,3,4,7,7,4,7,5,3,1,Married,Male,No
+EMP0342,27,IT,Software Engineer,6927,13,Travel_Rarely,No,2,3,1,4,1,0,9,6,3,1,Married,Female,No
+EMP0343,34,Human Resources,HR Specialist,8438,19,Non-Travel,No,3,3,2,7,2,3,9,1,3,2,Single,Male,No
+EMP0344,34,Sales,Sales Executive,6736,5,Travel_Rarely,No,4,4,4,2,2,1,14,5,4,2,Married,Female,No
+EMP0345,39,IT,IT Support,10011,11,Travel_Rarely,No,2,3,2,3,1,0,14,2,3,2,Married,Male,No
+EMP0346,26,Finance,Financial Analyst,5761,5,Travel_Rarely,Yes,4,3,3,2,2,2,8,5,3,3,Married,Female,No
+EMP0347,45,Human Resources,HR Manager,11389,12,Travel_Rarely,No,3,3,1,2,2,2,5,4,4,1,Married,Male,No
+EMP0348,35,Research & Development,Research Scientist,7346,5,Travel_Rarely,No,4,4,2,9,9,9,12,2,4,1,Single,Female,No
+EMP0349,25,Research & Development,Research Director,9230,7,Travel_Rarely,Yes,4,4,2,4,0,2,4,0,3,1,Married,Male,No
+EMP0350,39,Finance,Financial Analyst,6640,8,Travel_Rarely,Yes,4,3,3,4,3,1,13,5,3,1,Married,Female,No
+EMP0351,19,Research & Development,Research Scientist,4322,7,Travel_Rarely,No,4,4,4,1,0,0,1,2,3,0,Married,Female,No
+EMP0352,34,Human Resources,HR Specialist,11734,7,Travel_Rarely,No,4,3,4,4,1,0,7,2,3,1,Married,Female,No
+EMP0353,47,Finance,Finance Manager,9881,6,Travel_Rarely,No,3,3,3,5,3,0,19,6,3,1,Married,Female,No
+EMP0354,51,Human Resources,Recruiter,10498,11,Travel_Rarely,No,2,1,4,5,2,5,15,2,3,3,Married,Male,No
+EMP0355,47,Human Resources,HR Specialist,9850,9,Travel_Rarely,No,2,4,2,5,5,3,8,4,3,2,Single,Male,No
+EMP0356,36,Finance,Financial Analyst,8053,4,Travel_Rarely,No,2,2,1,5,0,0,16,5,3,0,Married,Female,No
+EMP0357,45,Research & Development,Research Director,7289,3,Travel_Rarely,No,3,2,4,7,3,0,16,3,3,0,Single,Female,No
+EMP0358,31,Research & Development,Research Scientist,6644,2,Travel_Rarely,No,3,3,2,5,2,4,13,5,3,1,Married,Female,No
+EMP0359,34,Finance,Financial Analyst,4244,5,Travel_Rarely,Yes,3,4,4,2,1,1,15,5,3,1,Married,Female,Yes
+EMP0360,28,Research & Development,Laboratory Technician,9461,16,Travel_Rarely,No,4,2,3,3,2,0,10,2,3,0,Single,Male,No
+EMP0361,33,Finance,Finance Manager,10526,17,Travel_Rarely,No,2,2,4,5,5,3,10,2,3,1,Single,Female,No
+EMP0362,34,Research & Development,Research Scientist,11087,12,Travel_Rarely,No,2,3,4,7,5,0,16,2,3,1,Married,Female,No
+EMP0363,26,Finance,Financial Analyst,5781,2,Travel_Rarely,No,4,3,3,6,0,6,8,1,3,0,Married,Female,No
+EMP0364,27,Human Resources,HR Manager,5600,11,Travel_Rarely,Yes,4,3,4,6,6,4,9,0,3,2,Single,Female,No
+EMP0365,36,Research & Development,Research Scientist,7135,9,Travel_Rarely,No,2,1,4,4,4,1,17,1,3,0,Married,Male,No
+EMP0366,45,Research & Development,Research Director,8524,11,Travel_Frequently,No,2,4,3,3,0,1,15,4,4,0,Married,Male,Yes
+EMP0367,41,IT,Data Analyst,7163,12,Travel_Rarely,Yes,4,2,3,8,2,2,12,1,3,3,Married,Male,No
+EMP0368,28,Research & Development,Research Director,2058,6,Travel_Frequently,No,4,3,2,3,2,1,3,6,4,1,Single,Female,No
+EMP0369,48,Sales,Manager,9671,16,Travel_Frequently,Yes,2,4,3,2,2,1,12,1,3,2,Single,Male,No
+EMP0370,24,Human Resources,Recruiter,4288,5,Travel_Frequently,No,2,4,3,5,5,2,6,1,3,0,Married,Male,No
+EMP0371,42,Sales,Sales Representative,6932,23,Travel_Rarely,No,2,2,3,2,0,0,3,2,3,1,Married,Male,No
+EMP0372,31,Research & Development,Research Director,7075,16,Travel_Frequently,Yes,3,2,2,4,0,3,13,2,3,1,Divorced,Male,No
+EMP0373,42,Human Resources,HR Manager,9828,18,Travel_Rarely,No,3,4,3,3,0,2,9,0,3,0,Divorced,Male,No
+EMP0374,26,Sales,Sales Representative,2859,3,Travel_Rarely,No,4,4,2,5,2,1,8,2,4,2,Single,Female,No
+EMP0375,30,Human Resources,HR Manager,7155,9,Travel_Rarely,Yes,3,4,3,6,4,3,9,5,3,0,Single,Female,Yes
+EMP0376,35,IT,Data Analyst,11918,6,Travel_Rarely,Yes,4,3,2,1,0,1,6,2,3,0,Single,Female,Yes
+EMP0377,23,Sales,Manager,3883,8,Travel_Frequently,Yes,2,1,3,4,3,2,5,6,3,0,Married,Male,No
+EMP0378,32,Sales,Manager,11323,3,Travel_Rarely,No,1,3,2,6,4,5,14,3,3,2,Married,Male,No
+EMP0379,49,Sales,Manager,9634,5,Travel_Rarely,No,1,2,3,3,3,3,4,1,3,1,Married,Male,No
+EMP0380,26,Sales,Sales Executive,3604,12,Travel_Frequently,No,2,3,3,6,5,4,8,2,3,1,Single,Male,No
+EMP0381,33,Research & Development,Laboratory Technician,6909,2,Travel_Frequently,No,1,4,4,3,2,1,8,3,3,2,Married,Male,No
+EMP0382,32,Research & Development,Research Director,9941,17,Travel_Rarely,No,1,3,3,8,1,3,10,2,3,2,Married,Female,No
+EMP0383,48,IT,Data Analyst,12973,9,Travel_Rarely,No,3,2,4,4,1,2,13,0,3,0,Married,Female,No
+EMP0384,39,Research & Development,Research Director,8298,7,Travel_Frequently,Yes,2,4,3,3,2,3,5,4,3,2,Single,Female,No
+EMP0385,46,IT,Data Analyst,9025,18,Travel_Frequently,No,2,2,2,4,4,0,17,6,3,0,Married,Female,No
+EMP0386,30,Human Resources,Recruiter,5212,1,Travel_Frequently,No,1,3,3,6,2,5,10,0,4,2,Divorced,Female,No
+EMP0387,37,Sales,Sales Representative,9498,11,Travel_Frequently,Yes,4,4,3,3,0,1,8,1,3,0,Married,Male,No
+EMP0388,34,Human Resources,Recruiter,10339,21,Travel_Rarely,No,2,4,3,6,0,0,6,1,3,1,Married,Male,No
+EMP0389,33,Research & Development,Research Scientist,1800,6,Travel_Rarely,No,4,2,2,5,5,0,8,0,3,0,Married,Female,No
+EMP0390,44,Sales,Sales Representative,8440,27,Travel_Frequently,No,4,4,3,4,1,2,11,5,3,1,Married,Male,No
+EMP0391,23,Sales,Sales Representative,8388,5,Travel_Rarely,Yes,1,2,3,5,1,3,5,3,3,2,Married,Female,Yes
+EMP0392,43,IT,Data Analyst,10913,11,Travel_Rarely,No,2,3,3,6,1,0,16,1,3,2,Married,Male,No
+EMP0393,30,Sales,Sales Executive,5473,9,Travel_Rarely,Yes,1,2,4,3,2,0,6,5,3,0,Married,Male,No
+EMP0394,30,Finance,Financial Analyst,7743,1,Travel_Frequently,No,2,3,3,8,5,5,12,1,4,0,Married,Male,No
+EMP0395,33,Finance,Accountant,7036,15,Travel_Rarely,No,1,3,3,5,2,0,15,3,3,0,Married,Female,Yes
+EMP0396,45,Research & Development,Research Scientist,11299,1,Travel_Rarely,Yes,3,2,4,7,3,7,9,5,3,1,Single,Female,No
+EMP0397,34,Sales,Sales Representative,4649,9,Travel_Frequently,Yes,3,4,4,5,4,0,9,6,3,1,Single,Male,No
+EMP0398,45,Research & Development,Research Director,5588,9,Travel_Frequently,Yes,4,3,3,5,2,0,5,5,4,3,Married,Male,No
+EMP0399,18,Sales,Manager,4497,9,Travel_Rarely,No,4,4,4,0,0,0,0,1,3,1,Married,Female,No
+EMP0400,38,Finance,Financial Analyst,11819,5,Travel_Frequently,No,3,3,3,2,1,0,15,1,3,2,Married,Female,No
+EMP0401,60,Research & Development,Research Director,11637,11,Non-Travel,No,4,4,1,5,3,1,5,2,4,2,Divorced,Female,No
+EMP0402,41,Research & Development,Research Director,7883,10,Travel_Rarely,No,4,3,1,5,5,1,17,6,3,1,Single,Female,Yes
+EMP0403,20,Research & Development,Research Scientist,2879,9,Travel_Frequently,No,2,4,4,2,2,0,2,6,3,1,Single,Female,Yes
+EMP0404,24,Sales,Sales Representative,6320,16,Travel_Rarely,No,3,3,3,4,4,0,6,0,4,1,Single,Female,Yes
+EMP0405,34,IT,Data Analyst,7430,11,Travel_Rarely,Yes,3,3,3,7,6,1,16,6,3,3,Married,Female,No
+EMP0406,44,Sales,Sales Executive,8713,9,Non-Travel,No,3,4,3,3,0,1,16,1,3,1,Married,Male,No
+EMP0407,47,Research & Development,Research Director,14323,10,Non-Travel,No,3,3,3,9,5,6,17,3,3,0,Married,Male,No
+EMP0408,18,Sales,Sales Representative,3439,6,Travel_Frequently,No,3,4,3,0,0,0,0,3,3,1,Single,Male,No
+EMP0409,35,Research & Development,Research Scientist,9109,7,Travel_Frequently,Yes,2,2,3,6,1,1,9,6,3,1,Single,Female,Yes
+EMP0410,24,Human Resources,HR Manager,8535,1,Travel_Frequently,No,4,3,4,1,0,1,6,6,3,1,Divorced,Female,No
+EMP0411,32,Finance,Financial Analyst,9966,14,Travel_Rarely,Yes,1,4,2,4,1,2,13,4,3,0,Married,Female,No
+EMP0412,34,Research & Development,Research Scientist,6312,3,Travel_Rarely,No,3,1,3,6,0,2,14,0,4,1,Divorced,Male,No
+EMP0413,41,Research & Development,Research Director,6683,1,Travel_Rarely,No,3,2,3,5,5,0,6,4,3,0,Married,Female,No
+EMP0414,29,Research & Development,Laboratory Technician,7233,5,Travel_Rarely,No,3,3,2,2,0,0,11,5,3,0,Married,Female,No
+EMP0415,29,Sales,Sales Executive,8250,28,Travel_Rarely,No,3,4,2,5,3,1,7,5,3,1,Married,Female,No
+EMP0416,40,Sales,Manager,6182,3,Travel_Rarely,No,3,3,2,6,0,0,8,5,4,1,Married,Male,Yes
+EMP0417,47,IT,IT Support,7741,2,Travel_Rarely,No,4,3,2,8,0,4,14,0,3,1,Married,Male,No
+EMP0418,31,IT,IT Support,4166,9,Travel_Frequently,No,4,2,4,6,6,3,10,1,4,1,Married,Male,No
+EMP0419,45,Sales,Sales Executive,13028,2,Travel_Frequently,No,2,2,1,4,0,2,15,4,3,0,Married,Female,Yes
+EMP0420,32,Research & Development,Laboratory Technician,7146,3,Non-Travel,No,2,2,2,2,1,0,14,3,3,1,Single,Male,No
+EMP0421,40,Sales,Sales Representative,5613,6,Travel_Rarely,No,3,3,3,1,1,0,7,5,3,0,Married,Male,No
+EMP0422,31,Sales,Sales Executive,3287,7,Travel_Rarely,No,4,2,1,11,6,5,13,3,3,0,Married,Female,No
+EMP0423,35,Research & Development,Research Director,6485,5,Travel_Frequently,No,1,2,3,6,3,0,14,0,3,0,Single,Male,Yes
+EMP0424,18,Finance,Financial Analyst,3293,22,Travel_Rarely,Yes,2,3,1,0,0,0,0,0,3,2,Married,Male,Yes
+EMP0425,39,Sales,Manager,7223,5,Non-Travel,No,2,1,1,4,4,0,10,3,4,1,Married,Female,No
+EMP0426,42,Research & Development,Research Director,11478,2,Travel_Rarely,Yes,3,4,4,4,3,4,17,3,3,0,Single,Female,Yes
+EMP0427,18,IT,Data Analyst,5504,3,Travel_Rarely,No,3,3,3,0,0,0,0,4,3,0,Divorced,Female,Yes
+EMP0428,39,Sales,Sales Executive,9743,5,Travel_Rarely,No,2,2,3,6,5,0,20,1,3,0,Married,Male,No
+EMP0429,30,Research & Development,Laboratory Technician,8100,7,Travel_Frequently,No,3,3,4,7,5,7,12,3,3,0,Single,Female,Yes
+EMP0430,44,Finance,Accountant,8884,12,Travel_Rarely,No,3,1,4,3,1,0,7,0,3,1,Married,Female,No
+EMP0431,21,Finance,Finance Manager,4994,14,Non-Travel,No,2,3,3,3,1,0,3,1,3,0,Married,Female,No
+EMP0432,35,Research & Development,Laboratory Technician,9531,9,Travel_Rarely,No,3,2,3,2,1,1,13,2,3,0,Single,Male,No
+EMP0433,47,Sales,Sales Representative,6876,1,Travel_Rarely,No,2,3,3,8,4,5,11,3,3,0,Married,Female,No
+EMP0434,39,Finance,Finance Manager,8632,11,Travel_Rarely,Yes,4,2,3,3,0,0,18,4,3,2,Single,Female,No
+EMP0435,39,IT,Software Engineer,4816,11,Travel_Rarely,Yes,3,3,3,9,4,4,9,4,3,0,Married,Female,No
+EMP0436,35,Sales,Sales Representative,5965,6,Travel_Rarely,No,3,4,2,7,2,5,17,1,3,1,Married,Male,No
+EMP0437,26,Research & Development,Research Director,6112,13,Travel_Frequently,No,3,2,2,6,0,2,8,3,3,2,Married,Male,No
+EMP0438,40,Human Resources,HR Specialist,9341,3,Travel_Rarely,No,1,3,4,6,0,0,8,2,3,0,Divorced,Female,No
+EMP0439,33,Sales,Manager,6911,6,Travel_Frequently,No,3,3,1,5,0,4,5,0,3,1,Married,Female,No
+EMP0440,30,Finance,Finance Manager,6781,11,Travel_Rarely,No,2,3,3,5,5,0,7,2,3,2,Single,Male,No
+EMP0441,28,Sales,Sales Representative,7890,13,Travel_Rarely,Yes,1,1,1,5,1,3,9,1,3,2,Single,Female,Yes
+EMP0442,34,IT,Software Engineer,7174,3,Travel_Rarely,Yes,2,1,3,8,5,2,8,0,3,1,Married,Male,No
+EMP0443,38,IT,Data Analyst,7537,15,Travel_Frequently,No,3,4,3,3,3,2,9,6,3,0,Married,Female,No
+EMP0444,41,Research & Development,Research Scientist,10468,11,Travel_Rarely,No,4,4,4,2,2,2,16,4,4,0,Single,Male,No
+EMP0445,39,Research & Development,Research Scientist,9229,17,Non-Travel,Yes,2,4,3,7,6,4,10,2,4,2,Married,Female,No
+EMP0446,43,Sales,Sales Representative,5800,3,Travel_Rarely,No,3,4,2,5,5,2,6,1,3,0,Married,Male,No
+EMP0447,18,Research & Development,Research Director,2306,5,Travel_Rarely,No,2,1,2,0,0,0,0,4,3,2,Married,Female,No
+EMP0448,27,Finance,Financial Analyst,3588,4,Travel_Rarely,No,3,3,3,5,3,3,9,5,3,1,Married,Female,No
+EMP0449,32,IT,Software Engineer,8025,1,Travel_Rarely,No,3,3,4,3,0,2,12,2,3,0,Married,Female,Yes
+EMP0450,36,Human Resources,HR Manager,8052,7,Travel_Rarely,No,4,3,3,6,2,4,18,6,3,1,Single,Female,Yes
+EMP0451,31,Sales,Sales Representative,9059,11,Travel_Rarely,Yes,3,2,4,4,3,0,10,4,3,1,Single,Female,Yes
+EMP0452,42,IT,IT Support,9649,5,Non-Travel,No,2,3,2,1,0,0,16,2,3,0,Married,Male,No
+EMP0453,28,Sales,Sales Representative,2098,8,Travel_Rarely,No,2,3,3,6,4,0,10,6,3,0,Single,Female,Yes
+EMP0454,37,Research & Development,Research Director,9406,8,Travel_Rarely,Yes,4,4,1,4,3,1,19,1,3,1,Divorced,Male,Yes
+EMP0455,32,Research & Development,Laboratory Technician,3716,11,Travel_Rarely,Yes,3,4,4,6,5,1,8,0,4,0,Single,Female,Yes
+EMP0456,45,Human Resources,Recruiter,12053,6,Travel_Rarely,No,3,4,3,4,0,1,6,6,3,2,Married,Female,No
+EMP0457,31,Finance,Accountant,3573,6,Travel_Rarely,No,3,4,2,6,6,6,13,1,3,1,Married,Male,No
+EMP0458,34,Sales,Manager,6658,4,Travel_Rarely,No,3,4,3,6,0,2,14,5,3,1,Married,Female,No
+EMP0459,33,Finance,Financial Analyst,6547,5,Travel_Frequently,No,2,3,1,5,5,4,6,3,4,2,Married,Female,No
+EMP0460,48,Sales,Sales Executive,10343,1,Travel_Rarely,No,4,3,3,5,4,1,18,4,3,0,Divorced,Male,No
+EMP0461,36,Human Resources,HR Specialist,4125,5,Travel_Frequently,No,4,3,3,6,1,1,18,3,3,0,Married,Female,No
+EMP0462,40,IT,Software Engineer,5849,13,Travel_Frequently,No,1,2,2,6,5,0,13,0,3,0,Married,Male,No
+EMP0463,28,IT,Software Engineer,8244,6,Travel_Frequently,Yes,4,2,3,9,7,3,10,5,3,3,Married,Female,No
+EMP0464,30,Human Resources,Recruiter,9039,5,Travel_Rarely,No,4,1,3,5,1,1,12,0,3,0,Married,Male,Yes
+EMP0465,35,Finance,Financial Analyst,3365,6,Travel_Rarely,No,4,3,3,7,2,4,9,5,3,2,Married,Male,No
+EMP0466,38,Finance,Finance Manager,8755,5,Travel_Rarely,Yes,3,4,4,5,3,4,19,0,3,1,Married,Female,No
+EMP0467,36,Human Resources,Recruiter,8715,13,Travel_Rarely,Yes,4,4,3,5,1,2,18,0,3,1,Single,Female,No
+EMP0468,41,Research & Development,Research Director,3351,2,Travel_Frequently,No,3,2,1,5,2,1,7,4,3,1,Married,Female,No
+EMP0469,45,Research & Development,Research Scientist,10689,8,Travel_Rarely,No,2,1,3,3,3,3,15,0,4,1,Single,Female,No
+EMP0470,33,IT,Software Engineer,3223,13,Travel_Rarely,No,3,4,2,8,0,6,15,3,3,2,Single,Female,No
+EMP0471,42,Finance,Financial Analyst,5452,4,Travel_Rarely,No,4,4,4,4,1,0,7,5,3,1,Divorced,Male,No
+EMP0472,36,Research & Development,Laboratory Technician,2473,14,Travel_Rarely,Yes,2,3,3,1,0,0,12,2,3,1,Divorced,Male,No
+EMP0473,42,Finance,Accountant,7151,6,Travel_Rarely,No,3,3,3,2,2,0,6,4,3,1,Married,Male,No
+EMP0474,31,Sales,Sales Representative,8330,3,Non-Travel,No,4,3,4,12,7,3,13,6,4,1,Married,Female,No
+EMP0475,36,Sales,Sales Representative,6622,2,Travel_Rarely,Yes,3,3,3,9,7,4,18,2,4,1,Married,Female,Yes
+EMP0476,36,Research & Development,Research Scientist,9008,2,Travel_Rarely,No,4,4,2,7,7,6,17,5,4,1,Married,Female,No
+EMP0477,35,Research & Development,Research Scientist,7760,11,Non-Travel,No,3,4,3,7,6,3,14,1,4,3,Married,Male,No
+EMP0478,31,IT,Data Analyst,4404,5,Travel_Rarely,No,4,3,2,6,6,1,13,0,3,0,Married,Female,No
+EMP0479,36,Finance,Finance Manager,11973,5,Travel_Frequently,No,2,1,3,5,4,0,9,6,3,1,Married,Male,No
+EMP0480,31,Human Resources,Recruiter,6163,2,Travel_Frequently,No,1,3,2,3,2,0,5,1,3,0,Married,Male,Yes
+EMP0481,32,Research & Development,Research Scientist,5356,13,Travel_Rarely,No,3,3,4,4,4,0,7,1,3,0,Single,Female,Yes
+EMP0482,20,Sales,Sales Representative,1800,7,Travel_Rarely,No,1,2,3,2,2,1,2,5,3,0,Divorced,Male,Yes
+EMP0483,28,IT,IT Support,6957,2,Travel_Frequently,Yes,4,3,4,6,6,5,10,5,4,1,Single,Male,No
+EMP0484,27,Sales,Sales Executive,2733,5,Travel_Rarely,No,3,2,3,5,0,1,6,6,3,1,Single,Male,No
+EMP0485,42,Sales,Sales Representative,8769,7,Travel_Rarely,Yes,2,1,4,6,2,5,13,1,3,0,Married,Female,No
+EMP0486,50,Human Resources,HR Specialist,10216,7,Travel_Frequently,No,3,3,3,2,2,2,15,1,3,1,Single,Female,Yes
+EMP0487,27,Research & Development,Research Scientist,7440,13,Travel_Frequently,Yes,2,3,2,4,1,4,9,4,3,0,Single,Male,No
+EMP0488,42,Research & Development,Research Director,11237,27,Travel_Rarely,Yes,2,3,2,2,0,1,17,5,3,0,Married,Male,No
+EMP0489,39,Research & Development,Research Director,5034,19,Travel_Rarely,No,1,2,3,13,1,0,13,1,3,0,Married,Male,Yes
+EMP0490,59,Research & Development,Laboratory Technician,10857,9,Travel_Rarely,No,4,3,4,3,0,1,12,1,3,0,Married,Female,No
+EMP0491,46,Research & Development,Research Scientist,8193,26,Travel_Rarely,No,1,2,3,3,0,3,10,4,3,1,Divorced,Male,No
+EMP0492,39,Sales,Sales Executive,9263,3,Travel_Rarely,No,1,1,4,4,3,1,12,2,3,0,Married,Female,No
+EMP0493,38,Sales,Sales Representative,8884,2,Travel_Rarely,No,4,3,2,8,6,0,11,0,3,2,Married,Female,No
+EMP0494,22,Finance,Financial Analyst,2094,17,Non-Travel,Yes,3,4,2,4,0,1,4,4,3,0,Married,Male,Yes
+EMP0495,46,IT,Data Analyst,10593,1,Travel_Rarely,No,1,4,2,2,2,1,13,2,3,0,Married,Female,No
+EMP0496,30,Sales,Manager,8180,29,Travel_Rarely,No,3,3,1,7,1,6,12,3,3,0,Married,Male,Yes
+EMP0497,32,Research & Development,Laboratory Technician,7091,6,Non-Travel,Yes,2,3,3,5,2,5,12,5,4,0,Married,Male,No
+EMP0498,32,Sales,Manager,9346,6,Travel_Rarely,No,4,3,2,4,4,0,14,5,3,2,Married,Female,Yes
+EMP0499,38,Research & Development,Laboratory Technician,9913,21,Travel_Frequently,Yes,3,2,4,2,1,2,13,5,3,0,Married,Male,Yes
+EMP0500,27,Sales,Sales Representative,4594,4,Travel_Rarely,No,3,3,4,4,0,3,9,1,3,2,Divorced,Female,No
